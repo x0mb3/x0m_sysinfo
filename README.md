@@ -1,14 +1,14 @@
-# sysxinfo
-A Simple CLI program for showing system Infos
+# sysinfo
+A simple CLI tool for getting basic operating system Informations
 
-## Installation
-```pip install sysxinfo```
+**Installation**
+`pip install x0m-sysinfo`
 
-## How to use it?
-Open terminal and type sysxinfo
+**License**
+MIT
 
-## License
+**Author**
+Shazin Rahman
 
-© 2020 Shazin
-
-This repository is licensed under the MIT license. See LICENSE for details.
+**Language**
+Python
