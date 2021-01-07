@@ -1,0 +1,6 @@
+ /build
+ /dist
+ /sysxinfo.egg-info
+ /sysxinfo2.egg-info
+ /venv
+ setup.py
